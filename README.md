@@ -16,6 +16,4 @@
 
 ### Vídeo
 
-<video autoplay loop muted>
-<source src="VideoBlink.mp4" type="video/mp4">
-</video>
+[Link do do vídeo](https://drive.google.com/file/d/1k2d2hRmZwG4qU-8ZeYvPncuhvrPivbRy/view?usp=sharing)
