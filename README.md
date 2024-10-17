@@ -20,7 +20,7 @@
 
 ## Parte 2: Simulando Blink Externo
 
-[Link para o projeto no Tinkercad](https://www.tinkercad.com/things/23Z9wx9wCs9-pisca-pisca-ponderada-s1m4?sharecode=bLCoUKAncJEVaZiPjlVcO86QzB3JQnD8WhBK2eP6rkE)
+[Link para o projeto no Tinkercad](https://www.tinkercad.com/things/23Z9wx9wCs9-pisca-pisca-ponderada-s1m4/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=xH-zmlSp6UC9ieFru1FgAKTDhAlOFuashGSBp_7_90c)
 
 ### Foto 
 
